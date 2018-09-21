@@ -13,6 +13,5 @@ namespace Modeling.Models
         public string Gender { get; set; }
         public int DOB { get; set; }
         public string Email { get; set; }
-
     }
 }

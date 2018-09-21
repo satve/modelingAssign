@@ -12,6 +12,5 @@ namespace Modeling.Models
         public String Make { get; set; }
         public String Model { get; set; }
         public string Color { get; set; }
-       
     }
 }
