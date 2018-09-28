@@ -7,6 +7,7 @@ namespace Modeling.Models
 {
     public class House
     {
+        public int Id { get; set; }
         public int Value { get; set; }
         public string LotSize { get; set; }
         public string Address { get; set; }

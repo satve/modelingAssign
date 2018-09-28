@@ -7,6 +7,7 @@ namespace Modeling.Models
 {
     public class Car
     {
+        public int Id { get; set; }
         public int Cost { get; set; }
         public int Year { get; set; }
         public String Make { get; set; }
